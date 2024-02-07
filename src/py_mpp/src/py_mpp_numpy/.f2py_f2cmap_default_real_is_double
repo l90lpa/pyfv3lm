@@ -1,0 +1,27 @@
+{
+    'real': {
+        '': 'double',
+        '4': 'float',
+        '8': 'double',
+        'r4_kind': 'float',
+        'r8_kind': 'double',
+        'r_grid': 'double',
+        'c_double': 'double',
+        'c_float': 'float' 
+    },
+    'logical': {
+        '': 'int',
+        'l4_kind': 'int',
+        'l8_kind': 'long_long',
+        'c_bool': 'int'
+    },
+    'integer': {
+        '': 'int',
+        'i2_kind': 'short',
+        'i4_kind': 'int',
+        'i8_kind': 'long_long',
+        'c_int': 'int',
+        'c_long': 'long',
+        'c_long_long': 'long_long'
+    }
+}
